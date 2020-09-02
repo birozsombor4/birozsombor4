@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there! I'm Zsombor🐧
 
-<!--
-**birozsombor4/birozsombor4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
 
-Here are some ideas to get you started:
+- 💻  Java | Spring
+- 🌐  HTML | CSS | Bootstrap | Thymeleaf
+- 🛢  MySQL | H2 | JPA | Hibernate | Flyway
+- 🔧  Git | Gradle | JUnit | Mockito | Spring Security
+- 🖥  Photoshop | IntelliJ | Visual Code | Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Familiar with
+
+- 🎮  Unity | C#
+- 🔌  Arduino | C++
+- ⚛️  React | JS
+
+### ☕ Connect with Me
+
+- LinkedIn: <a href = "https://www.linkedin.com/in/zsombor-bir%C3%B3/">Zsombor Biró</a>
+- Website: coming soon
