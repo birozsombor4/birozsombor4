@@ -17,4 +17,4 @@
 ### ☕ Connect with Me
 
 - LinkedIn: <a href = "https://www.linkedin.com/in/zsombor-bir%C3%B3/">Zsombor Biró</a>
-- Website: coming soon
+- Website: <a href = "https://birozsombor4.github.io/">GitHub Page</a>
